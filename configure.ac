@@ -1,5 +1,5 @@
 AC_PREREQ([2.71])
-AC_INIT([eiscp-proxy], [0.1], [jfs@chryseis.be])
+AC_INIT([eiscp-proxy], [0.1], [6573320+jfstenuit@users.noreply.github.com])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 
 AC_CONFIG_SRCDIR([cmdline.c])
